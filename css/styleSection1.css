@@ -138,13 +138,6 @@
     transition: 0.5s;
 }
 
-.box form .inputBox input:valid,
-.box form .inputBox input:focus,
-.box form .inputBox input:active
- {
-    background: #23242a;
-}
-
 .box form .inputBox input:valid~span,
 .box form .inputBox input:focus~span {
     color: #fff;
